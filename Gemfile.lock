@@ -176,6 +176,7 @@ GEM
 
 PLATFORMS
   ruby
+  x86_64-darwin-20
 
 DEPENDENCIES
   byebug
@@ -195,4 +196,4 @@ DEPENDENCIES
   web-console (~> 2.0)
 
 BUNDLED WITH
-   1.17.3
+   2.2.0
